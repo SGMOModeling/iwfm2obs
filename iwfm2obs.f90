@@ -12,9 +12,9 @@
 ! CFBrush Aug 2009 - increase obs name size to 20 characters
 !
 
-program iwfm2obs_2015
+program iwfm2obs
 
-! -- Program iwfm2obs_2015 converts iwfm hydrograph output data to pest's well sample file
+! -- Program iwfm2obs converts iwfm hydrograph output data to pest's well sample file
 !   format.
 
     use defn
@@ -675,7 +675,7 @@ program iwfm2obs_2015
 9900  go to 9999
 
 9999 write(6,'(a)') 'NORMAL TERMINATION - IWFM2OBS_2015'
-     end program iwfm2obs_2015
+end program iwfm2obs
   
 
 !================================================================================
