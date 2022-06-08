@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "iwfm2obs_2017", "iwfm2obs_2017.vfproj", "{2C8526AD-19E0-4A5E-8D6A-F6A7DFBF71CE}"
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "iwfm2obs", "iwfm2obs.vfproj", "{2C8526AD-19E0-4A5E-8D6A-F6A7DFBF71CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B48B511-3541-4171-848E-8DD0E86B3BC4}
 	EndGlobalSection
 EndGlobal
